@@ -1,7 +1,7 @@
 # Fed Scale 
 William B. Rubio
 
-This is a revival of the old FED scale project using a new board. The gzoal is to create a scale were the time is synced with the FED.
+This is a revival of the old FED scale project using a new board. The goal is to create a scale were the time is synced with the FED.
 
 ## Pieces
 Adafruit NAU7802 24-Bit ADC - STEMMA QT / Qwiic (https://learn.adafruit.com/adafruit-nau7802-24-bit-adc-stemma-qt-qwiic/overview)
