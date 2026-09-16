@@ -97,7 +97,7 @@ void setup() {
   Wire.setClock(100000);       // 100 kHz for the SCD-30 - set before its begin()
 
   display.begin(OLED_ADDR, true);
-  display.setRotation(1);
+  display.setRotation(3);
   display.setTextColor(SH110X_WHITE);
   display.clearDisplay();
   display.display();
